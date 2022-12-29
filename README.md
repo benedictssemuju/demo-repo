@@ -1,3 +1,3 @@
 # demo
 
-we are happy people!
+we are happy people
